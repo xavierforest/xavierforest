@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**xavierforest/xavierforest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Linux
 - 🌱 I’m currently learning Linux releated, system management, networking, shell script, and etc.
 - 👯 I’m looking to collaborate on ...
